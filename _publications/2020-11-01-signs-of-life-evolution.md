@@ -1,6 +1,7 @@
 ---
 title: "Finding Signs of Life on Transiting Earthlike Planets: High-resolution Transmission Spectra of Earth through Time around FGKM Host Stars"
 collection: publications
+category: "journal article"
 permalink: /publication/2020-11-01-signs-of-life-evolution
 excerpt: 'A database for transiting terrestrial exoplanets around different host stars at different geological times.'
 date: 2020-11-01

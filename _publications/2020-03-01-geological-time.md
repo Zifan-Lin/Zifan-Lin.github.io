@@ -1,6 +1,7 @@
 ---
 title: "High-resolution Transmission Spectra of Earth Through Geological Time"
 collection: publications
+category: "journal article"
 permalink: /publication/2020-03-01-geological-time
 excerpt: "Exploring how Earth's transmission spectrum changed through history as a template for identifying life on exoplanets."
 date: 2020-03-01

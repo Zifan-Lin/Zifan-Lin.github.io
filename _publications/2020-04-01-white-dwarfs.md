@@ -1,6 +1,8 @@
 ---
 title: "High-resolution Spectra and Biosignatures of Earth-like Planets Transiting White Dwarfs"
 collection: publications
+category: "journal article"
+highlight: true
 permalink: /publication/2020-04-01-white-dwarfs
 excerpt: 'Modeling transmission spectra for rocky planets orbiting cooling white dwarfs.'
 date: 2020-04-01
