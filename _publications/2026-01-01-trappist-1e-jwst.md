@@ -1,7 +1,7 @@
 ---
 title: "JWST TRAPPIST-1 e Atmospheric Search"
 collection: publications
-category: "journal article"
+category: manuscripts
 permalink: /publication/2026-01-01-trappist-1e-jwst
 excerpt: 'Exploring the impact of stellar contamination and flares on JWST observations of TRAPPIST-1 e.'
 date: 2026-01-01

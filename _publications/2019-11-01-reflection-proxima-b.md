@@ -1,7 +1,7 @@
 ---
 title: "High-resolution reflection spectra for Proxima b and Trappist-1e models for ELT observations"
 collection: publications
-category: "journal article"
+category: manuscripts
 permalink: /publication/2019-11-01-reflection-proxima-b
 excerpt: 'This paper models high-resolution reflection spectra for Proxima b and Trappist-1e for various terrestrial atmospheres.'
 date: 2019-11-01

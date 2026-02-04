@@ -1,7 +1,7 @@
 ---
 title: "Hot Earth or Young Venus? A nearby transiting rocky planet mystery"
 collection: publications
-category: "journal article"
+category: manuscripts
 permalink: /publication/2023-09-01-hot-earth-young-venus
 excerpt: 'Modeling the atmosphere of LP 890-9c to distinguish between habitable and runaway greenhouse scenarios.'
 date: 2023-09-01
