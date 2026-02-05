@@ -23,10 +23,10 @@ repository               : "Zifan-Lin/Zifan-Lin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ZifanLinProfile.jpg"
   name             : "Zifan Lin"
   pronouns         : he/him
-  bio              : "I am a postdoctral research assosicate at the Washington University in St. Louis working with Dr. Tansu Daylan. My research interests include planetary interiors, exoplanet atmospheres, spectroscopy, biosignatures, habitability, and photochemistry. I obtained my PhD in planetary sciences from Massachusetts Institute of Technology, under the supervision of Dr. Sara Seager. My thesis work focused on reducing the compositional and structural degeneracies of planetary interiors. I got my bachelor's degree from Cornell University with a major in astronomy. At Cornell, I worked under the mentorship of Dr. Lisa Kaltenegger on simulation of high-resolution spectra using radiative transfer code."
+  bio              : "Postdoctral research assosicate at the Washington University in St. Louis."
   location         : "St. Louis, MO, USA"
   employer         : "Washington University in St. Louis"
   uri              : # URL
