@@ -1,5 +1,5 @@
 ---
-title: "Research 1"
+title: "Planetary Interiors"
 excerpt: "Short description of porresearchtfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: research
 ---
