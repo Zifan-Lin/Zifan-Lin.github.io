@@ -2,7 +2,7 @@
 title: "JWST-TST DREAMS: Nonuniform Dayside Emission for WASP-17b from MIRI/LRS"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-01-01-jwst
+permalink: /publication/2024-01-01-jwst-nonuniform-dayside-wasp17b
 excerpt: ""
 date: 2024-01-01
 venue: 'The Astronomical Journal'

@@ -2,7 +2,7 @@
 title: "JWST-TST DREAMS: A Precise Water Abundance for Hot Jupiter WASP-17b from the NIRISS SOSS Transmission Spectrum"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-01-jwst
+permalink: /publication/2025-01-01-jwst-water-wasp17b
 excerpt: ""
 date: 2025-01-01
 venue: 'The Astronomical Journal'

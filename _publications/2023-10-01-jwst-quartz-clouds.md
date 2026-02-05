@@ -2,9 +2,9 @@
 title: "JWST-TST DREAMS: Quartz Clouds in the Atmosphere of WASP-17b"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-01-jwst
+permalink: /publication/2023-10-01-jwst-quartz-clouds
 excerpt: ""
-date: 2023-01-01
+date: 2023-10-01
 venue: 'The Astrophysical Journal'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2023ApJ...956L..32G'
 citation: 'Grant, David et al. (2023). "JWST-TST DREAMS: Quartz Clouds in the Atmosphere of WASP-17b." <i>The Astrophysical Journal</i>.'
