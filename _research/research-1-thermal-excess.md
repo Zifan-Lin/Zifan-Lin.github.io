@@ -1,6 +1,6 @@
 ---
 title: "Rocky Exoplanet Interiors: Thermal Emission Excess"
-excerpt: "Planets are expected to emit at a blackbody temperature set by the irradiation they receive. However, JWST secondary eclipse and phase curve observations revealed that some rocky exoplanets emit at super-blackbody temperatures. This puzzling <b>thermal emission excess</b> implies that some unknown processes, possibly interior to the planet, are generating extra heat. In [Lin & Daylan (2026)](/publication/2026-01-01-the-persistent), I investigated three possible processes, namely residual heat from formation, tidal heating, and induction heating, using models. However, the mystery is not fully resolved. I found that internal processes fail to explain the thermal emission excesses at a population level. Stellar contamination, surface processes, geometric effects, or other heating mechanisms may reconcile the remaining gap. <br/><img src='/images/RockyPlanetIR_Tirr_vs_R_ODR_BPL_fits.png' width='800'>"
+excerpt: "Planets are expected to emit at a blackbody temperature set by the irradiation they receive. However, JWST secondary eclipse and phase curve observations revealed that some rocky exoplanets emit at super-blackbody temperatures. This puzzling <b>thermal emission excess</b> implies that some unknown processes, possibly interior to the planet, are generating extra heat. In [Lin & Daylan (2026)](/publication/2026-01-01-the-persistent), I investigated three possible processes, namely residual heat from formation, tidal heating, and induction heating, using models. However, the mystery is not fully resolved. I found that internal processes fail to explain the thermal emission excesses at a population level. Stellar contamination, surface processes, geometric effects, or other heating mechanisms may reconcile the remaining gap. <br/><img src='/images/RockyPlanetIR_Tirr_vs_R_ODR_BPL_fits.png' width='800' style='margin-top: 1em;'>"
 collection: research
 ---
 
@@ -8,4 +8,4 @@ Observing the dayside thermal emissions of rocky exoplanets provides essential i
 
 See more details in [Lin & Daylan (2026)](http://arxiv.org/abs/2601.00412).
 
-<br/><img src='/images/RockyPlanetIR_Tirr_vs_R_ODR_BPL_fits.png' width='800'>
+<br/><img src='/images/RockyPlanetIR_Tirr_vs_R_ODR_BPL_fits.png' width='800' style='margin-top: 1em;'>
