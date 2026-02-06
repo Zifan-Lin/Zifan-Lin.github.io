@@ -1,7 +1,13 @@
 ---
 title: "Atmospheres of White Dwarf Exoplanets"
-excerpt: "Short description of porresearchtfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Hypothetical Earth-sized exoplanets orbiting white dwarfs (WDs) are ideal targets for atmospheric characterzation. This is because WDs - the highly compressed remnants of stellar evolution - are much smaller than main sequence stars, thereby enhancing the planet-to-star contrast ratio. In [Lin et al. (2022)](/publication/2022-01-01-h2-dominated), I simulated the atmospheric chemistry and transmission spectra of H<sub>2</sub>-, CO<sub>2</sub>-, and N<sub>2</sub>-dominated atmospheres on Earth-sized exoplanets orbiting cool ($$\leq6000$$ K) WDs. I studied the atmospheric loss of Earth-sized planets throughout the post-main-sequence evolution and concluded that any first-generation H<sub>2</sub>-dominated atmosphere cannot survive. Thus, H<sub>2</sub>-dominated atmosphere is a signature of second-generation planets accreting water-rich materials from WD debris disks and reviving a reduced H<sub>2</sub>-rich atmosphere. <br/><img src='/images/WD_planet_H2_atm.png' width='800' style='margin-top: 1em;'>"
 collection: research
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Following the discovery of the first exoplanet candidate transiting a white dwarf (WD), a "white dwarf opportunity" for characterizing the atmospheres of terrestrial exoplanets around WDs is emerging. Large planet-tostar size ratios and hence large transit depths make transiting WD exoplanets favorable targets for transmission spectroscopy; conclusive detection of spectral features on an Earth-like planet transiting a close-by WD can be achieved within a medium James Webb Space Telescope program. Despite the apparently promising opportunity, however, the post-main sequence evolutionary history of a first-generation WD exoplanet has never been incorporated in atmospheric modeling. Furthermore, second-generation planets formed in WD debris disks have never been studied from a photochemical perspective. We demonstrate that transmission spectroscopy can identify a second-generation rocky WD exoplanet with a thick ($$\sim1$$ bar) H<sub>2</sub>-dominated atmosphere. In addition, we can infer outgassing activities of a WD exoplanet based on its transmission spectra and test photochemical runaway by studying CH<sub>4</sub> buildup.
+
+See more details in [Lin et al. (2022)](https://iopscience.iop.org/article/10.3847/2041-8213/ac4788).
+
+Related work: [Kozakis, Lin & Kaltenegger (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/ab6f6a).
+
+<br/><img src='/images/WD_planet_H2_atm.png' width='800' style='margin-top: 1em;'>
