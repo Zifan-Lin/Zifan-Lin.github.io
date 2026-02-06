@@ -1,7 +1,11 @@
 ---
 title: "Rocky Exoplanet Interiors: Thermal Emission Excess"
-excerpt: "Short description of porresearchtfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Planets are expected to emit at a blackbody temperature set by the irradiation they receive. However, JWST secondary eclipse and phase curve observations revealed that some rocky exoplanets emit at super-blackbody temperatures. This puzzling <b>thermal emission excess</b> implies that some unknown processes, possibly interior to the planet, are generating extra heat. In [Lin & Daylan (2026)](/publication/2026-01-01-the-persistent), I investigated three possible processes, namely residual heat from formation, tidal heating, and induction heating, using models. 1<br/><img src='/images/RockyPlanetIR_Tirr_vs_R_ODR_BPL_fits.png' width='500'>"
 collection: research
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Observing the dayside thermal emissions of rocky exoplanets provides essential insights into their compositions and the presence of atmospheres. Even though no conclusive evidence has been found for atmospheres on small rocky exoplanets orbiting M dwarfs, recent JWST observations identified puzzling thermal emission excesses: some rocky exoplanets orbiting M dwarfs have dayside emission temperatures higher than the theoretical maximum. Theoretical maximum temperatures assume stellar irradiation as the sole energy source, implying that these planets may have internal heat sources. In this work, we simulate three possible planetary internal processes that may generate excessive heat in addition to stellar irradiation: residual heating from formation, tidal heating, and induction heating due to interactions with the stellar magnetic field. We found that these mechanisms, even when combined, cannot explain the observed thermal emission excesses, nor can they explain a tentative positive trend in the brightness temperature scaling factor as a function of irradiation temperature. Our results imply that planetary internal processes are unlikely to generate remotely detectable heat, so the observed thermal excesses, if astrophysical, are likely caused by stellar contamination, surface processes, or other internal processes not considered in this study. The ongoing JWST-HST Rocky Worlds Director's Discretionary Time Program and the upcoming Nancy Grace Roman Space Telescope will provide more insights into the thermal emission of rocky exoplanets.
+
+See more details in [Lin & Daylan (2026)](http://arxiv.org/abs/2601.00412).
+
+1<br/><img src='/images/RockyPlanetIR_Tirr_vs_R_ODR_BPL_fits.png' width='500'>
