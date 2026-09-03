@@ -1,0 +1,30 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a>
+      {% else %}
+        {{ title }}
+      {% endif %}
+    </h2>
+    <p class="page__meta">
+      {% if post.type == "Approved proposal" %}
+        <i class="fas fa-fw fa-satellite-dish" aria-hidden="true" title="Telescope proposal"></i>
+      {% else %}
+        <i class="fas fa-fw fa-trophy" aria-hidden="true" title="Award"></i>
+      {% endif %}
+      {% if post.role %}<strong>{{ post.role }}</strong>{% endif %}
+      {% if post.allocation %}{% if post.role %} &middot; {% endif %}{{ post.allocation }}{% endif %}
+      {% if post.period %}{% if post.role or post.allocation %} &middot; {% endif %}{{ post.period }}{% endif %}
+    </p>
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+  </article>
+</div>

@@ -233,9 +233,10 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: false
   talks:
-    output: true
-    permalink: /:collection/:path/
+    output: false
 
 
 # These settings control how pages and collections are included in the site
@@ -294,6 +295,13 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _awards
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
+      author_profile: true
   # _talks
   - scope:
       path: ""
