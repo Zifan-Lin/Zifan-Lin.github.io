@@ -1,5 +1,8 @@
 ---
 title: "Carbon-rich Sub-Neptune Interiors Are Compatible with JWST Observations"
+authors:
+  - "Lin, Z."
+  - "Seager, S."
 collection: publications
 category: manuscripts
 excerpt: ""

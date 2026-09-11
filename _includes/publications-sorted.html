@@ -1,0 +1,23 @@
+{% comment %}
+Sets `pub_keys`: every publication, in display order. Used by the publications
+list and by the Previous/Next pager on each paper's page, so the two agree.
+
+Order: newest year first; within a year, by my position in the author list
+(first-author papers first); ties broken by date, newest first. Each key is
+fixed-width so a plain string sort gives the right order:
+  (9999 - year) | position | (99999999 - yyyymmdd) | url
+Recover the post with:  site.publications | where: "url", <last segment>
+{% endcomment %}
+{% assign pub_keys = "" | split: "" %}
+{% for pub in site.publications %}
+  {% assign pos = 99 %}
+  {% for a in pub.authors %}
+    {% if a == "Lin, Z." %}{% assign pos = forloop.index %}{% break %}{% endif %}
+  {% endfor %}
+  {% assign ykey = pub.date | date: "%Y" | plus: 0 | minus: 9999 | abs %}
+  {% assign pkey = pos | prepend: "00" | slice: -2, 2 %}
+  {% assign dkey = pub.date | date: "%Y%m%d" | plus: 0 | minus: 99999999 | abs %}
+  {% capture key %}{{ ykey }}|{{ pkey }}|{{ dkey }}|{{ pub.url }}{% endcapture %}
+  {% assign pub_keys = pub_keys | push: key %}
+{% endfor %}
+{% assign pub_keys = pub_keys | sort %}

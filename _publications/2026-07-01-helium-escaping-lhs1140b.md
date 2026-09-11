@@ -1,5 +1,22 @@
 ---
 title: "Helium escaping from the atmosphere of a nearby rocky exoplanet orbiting in a habitable zone"
+authors:
+  - "Cherubim, C."
+  - "Vissapragada, S."
+  - "Cunningham, T."
+  - "Meech, A. G."
+  - "Charbonneau, D."
+  - "Wordsworth, R."
+  - "Householder, A."
+  - "Teske, J."
+  - "Dos Santos, L. A."
+  - "Wallack, N. L."
+  - "Misener, W."
+  - "Lin, Z."
+  - "McWilliam, A."
+  - "Zhang, M."
+  - "Dittmann, J. A."
+  - "López-Morales, M."
 collection: publications
 category: manuscripts
 permalink: /publication/2026-07-01-helium-escaping-lhs1140b

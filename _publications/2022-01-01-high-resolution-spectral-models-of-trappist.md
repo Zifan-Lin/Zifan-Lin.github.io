@@ -1,5 +1,8 @@
 ---
 title: "High-resolution spectral models of TRAPPIST-1e seen as a Pale Blue Dot for ELT and JWST observations"
+authors:
+  - "Lin, Z."
+  - "Kaltenegger, L."
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-high-resolution-spectral-models-of-trappist

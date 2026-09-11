@@ -1,5 +1,16 @@
 ---
 title: "Behind the mask: can HARMONI@ELT detect biosignatures in the reflected light of Proxima b?"
+authors:
+  - "Vaughan, S. R."
+  - "Birkby, J. L."
+  - "Thatte, N."
+  - "Carlotti, A."
+  - "Houllé, M."
+  - "Pereira-Santaella, M."
+  - "Clarke, F."
+  - "Vigan, A."
+  - "Lin, Z."
+  - "Kaltenegger, L."
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-behind-the-mask-can-harmoni

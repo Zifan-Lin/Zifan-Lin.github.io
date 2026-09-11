@@ -1,5 +1,9 @@
 ---
 title: "Finding Signs of Life on Transiting Earthlike Planets: High-resolution Transmission Spectra of Earth through Time around FGKM Host Stars"
+authors:
+  - "Kaltenegger, L."
+  - "Lin, Z."
+  - "Rugheimer, S."
 collection: publications
 category: manuscripts
 permalink: /publication/2020-11-01-finding-signs

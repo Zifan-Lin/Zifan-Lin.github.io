@@ -1,5 +1,11 @@
 ---
 title: "H<sub>2</sub>-dominated Atmosphere as an Indicator of Second-generation Rocky White Dwarf Exoplanets"
+authors:
+  - "Lin, Z."
+  - "Seager, S."
+  - "Ranjan, S."
+  - "Kozakis, T."
+  - "Kaltenegger, L."
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-h2-dominated

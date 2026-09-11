@@ -1,5 +1,32 @@
 ---
 title: "JWST-TST DREAMS: Nonuniform Dayside Emission for WASP-17b from MIRI/LRS"
+authors:
+  - "Valentine, D."
+  - "Wakeford, H. R."
+  - "Challener, R. C."
+  - "Batalha, N. E."
+  - "Lewis, N. K."
+  - "Grant, D."
+  - "Mullens, E."
+  - "Alderson, L."
+  - "Goyal, J."
+  - "MacDonald, R. J."
+  - "May, E. M."
+  - "Seager, S."
+  - "Stevenson, K. B."
+  - "Valenti, J. A."
+  - "Allen, N. H."
+  - "Espinoza, N."
+  - "Glidden, A."
+  - "Gressier, A."
+  - "Huang, J."
+  - "Lin, Z."
+  - "Long, D."
+  - "Louie, D. R."
+  - "Clampin, M."
+  - "Perrin, M."
+  - "Marel, R. P. v. d."
+  - "Mountain, C. M."
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-jwst-nonuniform-dayside-wasp17b

@@ -1,5 +1,9 @@
 ---
 title: "Interior and Gravity Field Models for Uranus Suggest a Mixed-composition Interior: Implications for the Uranus Orbiter and Probe"
+authors:
+  - "Lin, Z."
+  - "Seager, S."
+  - "Weiss, B. P."
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-interior-and-gravity

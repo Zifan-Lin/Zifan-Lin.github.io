@@ -1,5 +1,8 @@
 ---
 title: "High-resolution reflection spectra for Proxima b and Trappist-1e models for ELT observations"
+authors:
+  - "Lin, Z."
+  - "Kaltenegger, L."
 collection: publications
 category: manuscripts
 permalink: /publication/2019-01-01-high-resolution-reflection-spectra-for-proxima

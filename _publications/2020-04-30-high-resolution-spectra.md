@@ -1,5 +1,9 @@
 ---
 title: "High-resolution Spectra and Biosignatures of Earth-like Planets Transiting White Dwarfs"
+authors:
+  - "Kozakis, T."
+  - "Lin, Z."
+  - "Kaltenegger, L."
 collection: publications
 category: manuscripts
 permalink: /publication/2020-04-30-high-resolution-spectra

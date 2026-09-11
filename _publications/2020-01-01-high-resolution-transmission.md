@@ -1,5 +1,9 @@
 ---
 title: "High-resolution Transmission Spectra of Earth Through Geological Time"
+authors:
+  - "Kaltenegger, L."
+  - "Lin, Z."
+  - "Madden, J."
 collection: publications
 category: manuscripts
 permalink: /publication/2020-01-01-high-resolution-transmission

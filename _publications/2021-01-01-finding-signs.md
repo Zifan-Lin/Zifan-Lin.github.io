@@ -1,5 +1,8 @@
 ---
 title: "Finding Signs of Life in Transits: High-resolution Transmission Spectra of Earth-line Planets around FGKM Host Stars"
+authors:
+  - "Kaltenegger, L."
+  - "Lin, Z."
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-finding-signs

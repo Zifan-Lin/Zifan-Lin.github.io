@@ -1,5 +1,8 @@
 ---
 title: "The Persistent Thermal Anomalies in Rocky Worlds"
+authors:
+  - "Lin, Z."
+  - "Daylan, T."
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-01-the-persistent

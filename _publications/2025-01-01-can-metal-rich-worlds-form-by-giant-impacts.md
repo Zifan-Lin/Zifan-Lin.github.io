@@ -1,5 +1,14 @@
 ---
 title: "Can metal-rich worlds form by giant impacts?"
+authors:
+  - "Cambioni, S."
+  - "Weiss, B. P."
+  - "Asphaug, E."
+  - "Volk, K."
+  - "Emsenhuber, A."
+  - "Biersteker, J. B."
+  - "Lin, Z."
+  - "Melikyan, R."
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-can-metal-rich-worlds-form-by-giant-impacts

@@ -1,0 +1,31 @@
+{%- comment -%}
+Formats a publication's author list.
+  include.authors : array of "Surname, I." strings (front-matter `authors:`)
+  include.mode    : "short" for the publications list, "full" for a paper's own page
+Names are stored "Surname, I." and displayed "I. Surname" (AAS style).
+Zifan Lin is set in bold. In "short" mode a list of more than three authors is
+truncated to "First et al. (including Lin, Z.)" -- or, when Lin is the second or
+third author, to "First, [Second,] Lin et al." so the contribution stays visible.
+{%- endcomment -%}
+{%- assign me = "Lin, Z." -%}
+{%- assign n = include.authors | size -%}
+{%- assign me_idx = -1 -%}
+{%- for a in include.authors -%}
+  {%- if a == me -%}{%- assign me_idx = forloop.index0 -%}{%- endif -%}
+{%- endfor -%}
+{%- assign show = n -%}
+{%- if include.mode == "short" and n > 3 -%}
+  {%- if me_idx == 1 or me_idx == 2 -%}
+    {%- assign show = me_idx | plus: 1 -%}
+  {%- else -%}
+    {%- assign show = 1 -%}
+  {%- endif -%}
+{%- endif -%}
+{%- for a in include.authors limit: show -%}
+  {%- unless forloop.first -%}
+    {%- if forloop.last and show == n %} &amp; {% else %}, {% endif -%}
+  {%- endunless -%}
+  {%- assign shown = a | split: ", " | reverse | join: " " -%}
+  {%- if a == me -%}<b>{{ shown }}</b>{%- else -%}{{ shown }}{%- endif -%}
+{%- endfor -%}
+{%- if show < n %} et al.{% if me_idx > 2 %} (including <b>{{ me | split: ", " | reverse | join: " " }}</b>){% endif %}{% endif -%}

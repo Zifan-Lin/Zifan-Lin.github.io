@@ -1,5 +1,31 @@
 ---
 title: "Temperature and conductivity in shock compressed bridgmanite MgSiO<sub>3</sub> up to 2 TPa"
+authors:
+  - "Huff, M. F."
+  - "Marshall, M. C."
+  - "Hansen, L. E."
+  - "Ozaki, N."
+  - "Suer, T."
+  - "Lin, Z."
+  - "Polsin, D. N."
+  - "Erskine, D. J."
+  - "Gonzalez-Cataldo, F."
+  - "Sato, T."
+  - "Katagiri, K."
+  - "Okuchi, T."
+  - "Fratanduono, D. E."
+  - "Sano, T."
+  - "Noda, M."
+  - "Inoue, T."
+  - "Irifune, T."
+  - "Shinmei, T."
+  - "Ohara, K."
+  - "Henderson, B. J."
+  - "Gong, X."
+  - "Sprowal, Z. K."
+  - "Seager, S."
+  - "Rygg, J. R."
+  - "Collins, G. W."
 collection: publications
 category: manuscripts
 permalink: /publication/2026-04-01-shock-compressed-bridgmanite

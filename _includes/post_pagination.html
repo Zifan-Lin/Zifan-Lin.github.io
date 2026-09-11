@@ -1,14 +1,35 @@
 {% include base_path %}
 
-{% if page.previous or page.next %}
+{% comment %}
+Previous/Next follow the order of the parent listing. Publications use a custom
+sort (see publications-sorted.html), so their neighbours are looked up there;
+everything else keeps Jekyll's default page.previous / page.next.
+{% endcomment %}
+{% assign prev_post = page.previous %}
+{% assign next_post = page.next %}
+{% if page.collection == "publications" %}
+  {% include publications-sorted.html %}
+  {% assign prev_post = nil %}{% assign next_post = nil %}
+  {% assign prev_url = nil %}{% assign next_url = nil %}
+  {% assign found = false %}
+  {% for key in pub_keys %}
+    {% assign url = key | split: "|" | last %}
+    {% if found %}{% assign next_url = url %}{% break %}{% endif %}
+    {% if url == page.url %}{% assign found = true %}{% else %}{% assign prev_url = url %}{% endif %}
+  {% endfor %}
+  {% if prev_url %}{% assign prev_post = site.publications | where: "url", prev_url | first %}{% endif %}
+  {% if next_url %}{% assign next_post = site.publications | where: "url", next_url | first %}{% endif %}
+{% endif %}
+
+{% if prev_post or next_post %}
   <nav class="pagination">
-    {% if page.previous %}
-      <a href="{{ base_path }}{{ page.previous.url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+    {% if prev_post %}
+      <a href="{{ base_path }}{{ prev_post.url }}" class="pagination--pager" title="{{ prev_post.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
     {% else %}
       <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
     {% endif %}
-    {% if page.next %}
-      <a href="{{ base_path }}{{ page.next.url }}" class="pagination--pager" title="{{ page.next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+    {% if next_post %}
+      <a href="{{ base_path }}{{ next_post.url }}" class="pagination--pager" title="{{ next_post.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
     {% else %}
       <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
     {% endif %}

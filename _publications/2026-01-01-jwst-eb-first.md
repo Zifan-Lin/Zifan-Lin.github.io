@@ -1,5 +1,33 @@
 ---
 title: "JWST TRAPPIST-1 e/b Program: Motivation and First Observations"
+authors:
+  - "Allen, N. H."
+  - "Espinoza, N."
+  - "Boehm, V. A."
+  - "Cañas, C. I."
+  - "Stevenson, K. B."
+  - "Lewis, N. K."
+  - "MacDonald, R. J."
+  - "Morris, B. M."
+  - "Agol, E."
+  - "Colón, K."
+  - "Diamond-Lowe, H."
+  - "Glidden, A."
+  - "Gressier, A."
+  - "Huang, J."
+  - "Lin, Z."
+  - "Long, D."
+  - "Louie, D. R."
+  - "MacGregor, M. A."
+  - "Pueyo, L."
+  - "Rackham, B. V."
+  - "Ranjan, S."
+  - "Seager, S."
+  - "Tovar Mendoza, G."
+  - "Valenti, J. A."
+  - "Valentine, D."
+  - "van der Marel, R. P."
+  - "Wakeford, H. R."
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-01-jwst-eb-first

@@ -1,5 +1,14 @@
 ---
 title: "Photochemical Runaway in Exoplanet Atmospheres: Implications for Biosignatures"
+authors:
+  - "Ranjan, S."
+  - "Seager, S."
+  - "Zhan, Z."
+  - "Koll, D. D. B."
+  - "Bains, W."
+  - "Petkowski, J. J."
+  - "Huang, J."
+  - "Lin, Z."
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-photochemical-runaway

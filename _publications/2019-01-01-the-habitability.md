@@ -1,5 +1,14 @@
 ---
 title: "The Habitability of GJ 357D: Possible Climate and Observability"
+authors:
+  - "Kaltenegger, L."
+  - "Madden, J."
+  - "Lin, Z."
+  - "Rugheimer, S."
+  - "Segura, A."
+  - "Luque, R."
+  - "Pallé, E."
+  - "Espinoza, N."
 collection: publications
 category: manuscripts
 permalink: /publication/2019-01-01-the-habitability

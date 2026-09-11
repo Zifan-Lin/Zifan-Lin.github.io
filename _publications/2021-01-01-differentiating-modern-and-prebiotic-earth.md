@@ -1,5 +1,10 @@
 ---
 title: "Differentiating modern and prebiotic Earth scenarios for TRAPPIST-1e: high-resolution transmission spectra and predictions for JWST"
+authors:
+  - "Lin, Z."
+  - "MacDonald, R. J."
+  - "Kaltenegger, L."
+  - "Wilson, D. J."
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-differentiating-modern-and-prebiotic-earth
